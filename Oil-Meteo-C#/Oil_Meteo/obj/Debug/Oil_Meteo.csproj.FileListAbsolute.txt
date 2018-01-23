@@ -1,0 +1,38 @@
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\bin\Debug\Oil_Meteo.exe.config
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\bin\Debug\Oil_Meteo.exe
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\bin\Debug\Oil_Meteo.pdb
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\obj\Debug\Oil_Meteo.csprojResolveAssemblyReference.cache
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\obj\Debug\Oil_Meteo.Form1.resources
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\obj\Debug\Oil_Meteo.Properties.Resources.resources
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\obj\Debug\Oil_Meteo.csproj.GenerateResource.Cache
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\obj\Debug\Oil_Meteo.exe
+c:\users\sergej\documents\visual studio 2017\Projects\Oil_Meteo\Oil_Meteo\obj\Debug\Oil_Meteo.pdb
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csprojResolveAssemblyReference.cache
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.Form1.resources
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.Properties.Resources.resources
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csproj.GenerateResource.Cache
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.exe
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.pdb
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.exe.config
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.exe
+C:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.pdb
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.exe.config
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.exe
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.pdb
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csprojResolveAssemblyReference.cache
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.Form1.resources
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.Properties.Resources.resources
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csproj.GenerateResource.Cache
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csproj.CoreCompileInputs.cache
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.exe
+E:\Users\Sergej\Documents\Visual Studio 2017\Projects\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.pdb
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.exe.config
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.exe
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\bin\Debug\Oil_Meteo.pdb
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csprojResolveAssemblyReference.cache
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.Form1.resources
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.Properties.Resources.resources
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csproj.GenerateResource.Cache
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.csproj.CoreCompileInputs.cache
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.exe
+C:\Users\Serge\Desktop\Oil_Meteo_V1.0\Oil_Meteo\obj\Debug\Oil_Meteo.pdb
